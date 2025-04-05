@@ -82211,7 +82211,7 @@ A.wY.prototype={
 al(){return new A.OQ(B.k)}}
 A.OQ.prototype={
 aG(){this.aR()
-A.pQ(A.ca(0,0,2),new A.ady(this),t.P)},
+A.pQ(A.ca(0,0,5),new A.ady(this),t.P)},
 L(a){var s=null
 if(this.d)return new A.KF(s)
 else if(A.bA(a,s,t.w).w.a.a>=1200)return new A.rO(s)
@@ -82225,7 +82225,7 @@ $0(){this.a.d=!1},
 $S:0}
 A.KF.prototype={
 L(a){var s=null
-return A.JU(s,B.i,A.ib(A.eq(A.b([A.pY("assets/images/logo.png",s,120),A.b2(s,30,s),new A.Kf(new A.a7p(),A.bu("Ragi Flour",s,s,s,A.bz(s,s,B.i,s,s,s,s,s,"Montserrat",s,s,40,s,s,B.aD,s,s,!0,s,s,s,s,s,A.b([new A.k0(B.JH,new A.f(2,2),10)],t.kO),s,s),s,s),s),A.b2(s,30,s),new A.uP(s,s,s,s,s,s,s),A.b2(s,10,s),A.bu("Loading...",s,s,s,A.bz(s,s,B.cr,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.Z,B.tn,B.T),s,s),s,s)}}
+return A.JU(s,B.i,A.ib(A.eq(A.b([A.pY("assets/images/Logo.png",s,120),A.b2(s,30,s),new A.Kf(new A.a7p(),A.bu("Ragi Flour",s,s,s,A.bz(s,s,B.i,s,s,s,s,s,"Montserrat",s,s,40,s,s,B.aD,s,s,!0,s,s,s,s,s,A.b([new A.k0(B.JH,new A.f(2,2),10)],t.kO),s,s),s,s),s),A.b2(s,30,s),new A.uP(s,s,s,s,s,s,s),A.b2(s,10,s),A.bu("Loading...",s,s,s,A.bz(s,s,B.cr,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.Z,B.tn,B.T),s,s),s,s)}}
 A.a7p.prototype={
 $1(a){var s=null,r=A.b([B.ca,B.JK,B.JJ],t.t_),q=B.cl.a3(s).Vj(a),p=B.ln.a3(s).Vj(a),o=new A.HD(B.cl,B.ln,B.cL,r,s,s).a7a()
 return A.akh(q,p,r,o,B.cL,s)},
